@@ -1,0 +1,1 @@
+import{r as n}from"./index-DDeHUfSc.js";const t="BarberPro - Barber Shop Hưng Yên";function u(e,r=!0){n.useEffect(()=>{const o=document.title;return document.title=r&&e?`${e} | ${t}`:e||t,()=>{document.title=o}},[e,r])}export{u};
