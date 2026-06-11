@@ -1,0 +1,1 @@
+import{j as s}from"./index-Bt_rH2BV.js";function n({children:r,className:o="",hover:a=!1,...e}){return s.jsx("div",{className:["bg-white rounded-2xl shadow-sm border border-gray-100","transition-all duration-300",a?"hover:shadow-xl hover:-translate-y-1 hover:border-brand/20 cursor-pointer":"",o].join(" "),...e,children:r})}export{n as C};
