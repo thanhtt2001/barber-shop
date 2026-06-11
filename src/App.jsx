@@ -6,7 +6,7 @@ import ScrollToTop from "@/shared/components/ScrollToTop";
 export default function App() {
   return (
     <ErrorBoundary>
-      <BrowserRouter>
+      <BrowserRouter basename="/barber-shop">
         <ScrollToTop />
         <AppRouter />
       </BrowserRouter>
